@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: pyvideostream
+Version: 1.0
+Summary: Package that enables video streaming over the same machine
+Home-page: https://github.com/victorcmoura/python-video-stream
+Author: Victor Moura
+Author-email: victor_cmoura@hotmail.com
+License: GPL-3.0
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+Requires-Dist: pygame
+
+# Python Video Stream
+
+Simple python package that opens a video streaming using sockets
+
